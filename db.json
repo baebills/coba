@@ -2,14 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "Untuk mendapatkan hasil seperti gambar diatas berikut adalah step – step nya. Pertama ambil kedua sisi dengan panjang yang sama dan jangan lupa pinnya."
+      "title": "Pertama ambil kedua sisi dengan panjang yang sama dan jangan lupa pinnya."
     },
     {
       "id": 2,
-      "title": "Kemudian tarik sisi kanan dan pasang jarumnya ke belakang kepala, begitu juga sisi kirinya jangan lupa pasang jarum lagi"
+      "title": "Kemudian tarik sisi kanan dan pasang jarumnya ke belakang kepala,"
     },
     {
       "id": 3,
+      "title": "Begitu juga sisi kirinya jangan lupa pasang jarum lagi."
+    },
+    {
+      "id": 4,
       "title": "Done!"
     }
   ]
