@@ -2,11 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "Pertama ambil kedua sisi dengan panjang yang sama dan jangan lupa pinnya."
+      "body": "Pertama ambil kedua sisi dengan panjang yang sama dan jangan lupa pinnya."
     },
     {
       "id": 2,
-      "title": "Kemudian tarik sisi kanan dan pasang jarumnya ke belakang kepala,"
+      "body": "Kemudian tarik sisi kanan dan pasang jarumnya ke belakang kepala,"
     },
     {
       "id": 3,
