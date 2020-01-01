@@ -2,19 +2,23 @@
   "posts": [
     {
       "id": 1,
-      "title": "Pertama ambil kedua sisi dengan panjang yang sama dan jangan lupa pinnya."
+      "title": "Satu"
+      "gambar": https://i.pinimg.com/originals/76/97/11/7697113ded328132410feb89a7ee01bd.jpg
     },
     {
       "id": 2,
-      "title": "Kemudian tarik sisi kanan dan pasang jarumnya ke belakang kepala,"
+      "title": "Dua"
+      "gambar": https://i.pinimg.com/originals/76/97/11/7697113ded328132410feb89a7ee01bd.jpg
     },
     {
       "id": 3,
-      "title": "Begitu juga sisi kirinya jangan lupa pasang jarum lagi."
+      "title": "Tiga"
+      "gambar": https://i.pinimg.com/originals/76/97/11/7697113ded328132410feb89a7ee01bd.jpg
     },
     {
       "id": 4,
-      "title": "Done!"
+      "title": "Empat"
+      "gambar": https://i.pinimg.com/originals/76/97/11/7697113ded328132410feb89a7ee01bd.jpg
     }
   ]
 }
