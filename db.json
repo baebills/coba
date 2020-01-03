@@ -3,19 +3,26 @@
     {
       "id": 1,
       "title": "Satu",
-      "subjudul":"A"
+      "subjudul":"A",
+      "gambar":"https://i.pinimg.com/originals/76/97/11/7697113ded328132410feb89a7ee01bd.jpg"
     },
     {
       "id": 2,
-      "title": "Dua"
+      "title": "Dua",
+      "subjudul":"B",
+      "gambar":"https://image.winudf.com/v2/image/Y29tLmhpamFidHV0b3JpYWxmb3JzY2hvb2wua3VsaWhhbl9zY3JlZW5fMl8xNTExMjQ5ODk4XzAzNA/screen-2.jpg?fakeurl=1&type=.jpg"
     },
     {
       "id": 3,
-      "title": "Tiga"
+      "title": "Tiga",
+      "subjudul":"A",
+      "gambar":"https://i.pinimg.com/originals/76/97/11/7697113ded328132410feb89a7ee01bd.jpg"
     },
     {
       "id": 4,
-      "title": "Empat"
+      "title": "Empat",
+      "subjudul":"A",
+      "gambar":"https://image.winudf.com/v2/image/Y29tLmhpamFidHV0b3JpYWxmb3JzY2hvb2wua3VsaWhhbl9zY3JlZW5fMl8xNTExMjQ5ODk4XzAzNA/screen-2.jpg?fakeurl=1&type=.jpg"
     }
   ]
 }
