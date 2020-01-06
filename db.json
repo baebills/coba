@@ -115,65 +115,7 @@
         ]
     }
   ],
-  "turban": [
-    {
-      "id": 1,
-      "title": "Polos untuk Lebaran Turban",
-      "subjudul":"Hijup",
-      "gambar":"https://cdn1-production-images-kly.akamaized.net/fL85bXxQlzxumXEQbRuHzxn_r2s=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2806454/original/025204500_1557919880-Tutorial_Hijab_Polos_untuk_Lebaran__Hijup_.JPG",
-      "langkah":[
-        "1. Bentangkan hijab polos sesuai keinginan sejajar bahu.",
-        "2. Letakan hijab di atas kepala dengan memegang bagian kanan dan kiri.",
-        "3. Tarik bagian kanan dan selipkan ke bahu kiri hingga berputar ke bagian kanan.",
-        "4. Sematkan pentul di bagian kiri hijab kemudian rapikan.",
-        "5. It's done!",
-        ""
-        ]
-    },
-    {
-      "id": 2,
-      "title": "Pashmina Jepit",
-      "subjudul":"Rachel Venya",
-      "gambar":"https://cdn.popmama.com/content-images/post/20190806/ps1-2b739b363435645e643289765dc92083.jpg",
-      "langkah":[
-        "1. Bentangkan hijab polos sesuai keinginan sejajar bahu.",
-        "2. Letakan hijab di atas kepala dengan memegang bagian kanan dan kiri.",
-        "3. Tarik bagian kanan dan selipkan ke bahu kiri hingga berputar ke bagian kanan.",
-        "4. Sematkan pentul di bagian kiri hijab kemudian rapikan.",
-        "5. It's done!",
-        "6. salah"
-        ]
-    },
-    {
-      "id": 3,
-      "title": "Tiga",
-      "subjudul":"A",
-      "gambar":"https://i.pinimg.com/originals/76/97/11/7697113ded328132410feb89a7ee01bd.jpg",
-      "langkah":[
-        "1. Bentangkan hijab polos sesuai keinginan sejajar bahu.",
-        "2. Letakan hijab di atas kepala dengan memegang bagian kanan dan kiri.",
-        "3. Tarik bagian kanan dan selipkan ke bahu kiri hingga berputar ke bagian kanan.",
-        "4. Sematkan pentul di bagian kiri hijab kemudian rapikan.",
-        "5. It's done!",
-        ""
-        ]
-    },
-    {
-      "id": 4,
-      "title": "Empat",
-      "subjudul":"A",
-      "gambar":"https://image.winudf.com/v2/image/Y29tLmhpamFidHV0b3JpYWxmb3JzY2hvb2wua3VsaWhhbl9zY3JlZW5fMl8xNTExMjQ5ODk4XzAzNA/screen-2.jpg?fakeurl=1&type=.jpg",
-      "langkah":[
-        "1. Bentangkan hijab polos sesuai keinginan sejajar bahu.",
-        "2. Letakan hijab di atas kepala dengan memegang bagian kanan dan kiri.",
-        "3. Tarik bagian kanan dan selipkan ke bahu kiri hingga berputar ke bagian kanan.",
-        "4. Sematkan pentul di bagian kiri hijab kemudian rapikan.",
-        "5. It's done!",
-        "6. betul"
-        ]
-    }
-  ],
-  "mix": [
+  "mixed": [
     {
       "id": 1,
       "title": "Polos untuk Lebaran Mix",
